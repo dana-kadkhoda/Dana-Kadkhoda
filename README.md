@@ -3,4 +3,4 @@
 <h3 align="center">⭐ He is from Iran, Mahabad ⭐</h3>
 <h3 align="center">🌟 He is KURD 🌟</h3>
 <hr>
-<img src="https://skillicons.dev/icons?i=js,py,flask,css,html,github,git,mint,pycharm,gmail" align="center" />
+<img src="https://skillicons.dev/icons?i=js,py,flask,css,html,figma,github,git,mint,pycharm,vscode,gmail" align="center" />
